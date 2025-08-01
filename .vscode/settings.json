@@ -1,0 +1,12 @@
+{
+    // Mengatur lebar tab (indentasi) menjadi 4 spasi
+    "editor.tabSize": 4,
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Source Code Pro', 'Menlo', 'monospace'",
+    "editor.fontLigatures": true,
+    "editor.letterSpacing": 0.8,
+    "editor.fontWeight": "500",
+    // Mengatur tinggi baris (line height) menjadi 28px (default biasanya 22px)
+    "editor.lineHeight": 28,
+    "editor.detectIndentation": false,
+    "workbench.panel.defaultLocation": "right"
+}
